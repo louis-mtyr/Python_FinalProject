@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #00120B; /* Dark green text for body */
+  background-color: #f2f6fe;
+}
+
+h1 {
+  color: #022a1b; /* Dark green */
+  text-align: center;
+}
+
+h2 {
+  color: #35605A; /* Teal for h2 */
+  margin-left: 5%;;
+}
+
+h3 {
+  color: #6B818C; /* Light gray for h3 */
+}
+
+p {
+  color: #00120B; /* Dark green text for paragraphs */
+  line-height: 1.5;
+}
+img{
+  position: absolute;
+  top:200px;
+  width: 400px;
+  right:450px;
+}
+button {
+  background-color: #35605A; /* Teal */
+  color: #fff; /* White text */
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #6B818C; /* Light gray on hover */
+}
+
+.button-secondary {
+  background-color: #D8E4FF; /* Light blue */
+  color: #00120B; /* Dark green text */
+}
+
+.button-secondary:hover {
+  background-color: #B5DFCA; /* Light green on hover */
+}
+.dash-dropdown {
+  border: 1px solid #6B818C; /* Light gray border */
+  border-radius: 5px;
+
+  width: 20%;
+}
+header p {
+  font-style: italic;
+}/* Customize the focus style for input */
+.dash-dropdown:hover {
+  border: 1px solid #35605A; /* Teal border on focus */
+  outline: none;
+}
