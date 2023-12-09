@@ -15,10 +15,10 @@ Creating some visualizations to facilitate the comprehension of all of our data 
 Creating a prediction algorithm based on most of the features included in this dataset to try and predict in which obesity level category a person belongs in based on their eating habits and physical attributes (except for their weight as it would give too much information for our predictions to be intereseting).
 
 ### API implementation
-Developping an API to apply our model on and getting back its results.
+Developping an API to apply our model on and getting back its results. The python file to run it locally is the main.py file. You then need to launch the server via uvicorn to make it work.
 
 ### Local web display
-Developping a local display using HTML to give a nicer look to our prediction model if you wish to test it on specific parameters
+Developping a local display using HTML to give a nicer look to our prediction model if you wish to test it on specific parameters. The code for this lies in the 
 
 ### Powerpoint presentation
 Creating a powerpoint presentation to show the big lines of our work.
