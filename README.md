@@ -1,4 +1,4 @@
-# Python_FinalProject
+# Python Final Project - Louis Killian Marc
 The final project repository of Louis MARTYR, Killian LAFAYE and Marc LEMAISTRE
 
 ## Here are the main work done through this project:
