@@ -1,6 +1,8 @@
 # Python_FinalProject
 The final project repository of Louis MARTYR, Killian LAFAYE and Marc LEMAISTRE
 
+## Here are the main work done through this project:
+
 ### Problematic
 Can we give a realistic estimation of the obesity level of someone purely based on their eating habits and physical condition ?
 Link to our dataset: https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
