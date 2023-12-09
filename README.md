@@ -18,7 +18,7 @@ Creating a prediction algorithm based on most of the features included in this d
 Developping an API to apply our model on and getting back its results. The python file to run it locally is the main.py file. You then need to launch the server via uvicorn to make it work.
 
 ### Local web display
-Developping a local display using HTML to give a nicer look to our prediction model if you wish to test it on specific parameters. The code for this lies in the 
+Developping a local display using HTML to give a nicer look to our prediction model if you wish to test it on specific parameters. The code for this lies in the online API DASH.py file, and the HTML pages are located in the HTML_contents directory.
 
 ### Powerpoint presentation
 Creating a powerpoint presentation to show the big lines of our work.
